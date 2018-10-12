@@ -1,0 +1,126 @@
+
+
+
+head{
+    text-align: center;
+    font-style: italic;
+   color: black;
+   background-color: green;
+}
+   
+#seh{
+    color:red;
+    font-style: italic;
+    border-style: solid;
+   }
+
+#gan{
+   color: blueviolet;
+   border-style: solid;
+   border-color: lightgreen;
+   font-style: italic;
+}
+
+.dra{
+    color: maroon;
+    border-style: dotted;
+    border-color: orchid;
+    
+}
+
+
+
+h3{
+    background-color: lightsalmon;
+}
+h2{
+    background-color: lightsalmon;
+}
+
+.aside-header{
+    color:brown;
+    border-style: solid;
+    float: right;
+    background-color: black;
+}
+
+#img{
+    border-radius: 50%;
+}
+
+body{
+    background-size: cover;
+    background-image:"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwipnPq_s9_dAhUFWq0KHa2RA74QjRx6BAgBEAU&url=https%3A%2F%2Fwww.w3schools.com%2Fhowto%2Fhowto_css_images_side_by_side.asp&psig=AOvVaw1Wzwk3wb6vT92QoDD90-hH&ust=1538282630902411";
+}
+
+
+
+
+
+
+/*
+
+body{
+background-color:lightblue;color: rgb(0, 81, 255)
+}
+
+#abc{
+    font-style: italic
+}
+h2{ 
+    font-style: italic;
+    background-color: black
+}
+#def{
+    background-color: rgb(198, 226, 43);
+}
+table, td, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 40%;
+    
+}
+
+tr {
+    height: 40px;
+}
+main 
+{
+    background-color: palegreen;
+}
+
+section{
+    background-color: orangered
+}
+#past-header {
+    border-style: inset;
+    
+}
+#axe{
+    font-style: italic;
+}
+#bat{
+    background-color: chocolate
+}
+div {
+    background-color:black;
+    width: 600px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+#int{
+    background-color: lightgrey;
+    width:900px;
+    border: 15px solid rgb(128, 0, 60);
+    padding: 12px;
+    margin: 25px;
+}
+aside {
+    float: right;
+    margin: 0 1.5%;
+  width: 30%;
+  }
+  */
+  
+  
